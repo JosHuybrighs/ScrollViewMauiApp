@@ -8,7 +8,7 @@
 
 
   <ScrollView x:Name="PageScrollView">
-    <VerticalStackLayout x:Name="ContentPanel" Padding="20" Spacing="20">
+    <VerticalStackLayout x:Name="ContentPanel" Padding="20" Spacing="0">
 
       <Editor HeightRequest="180" Placeholder="Top Editor" />
       <Button Text="Hide keyboard"
